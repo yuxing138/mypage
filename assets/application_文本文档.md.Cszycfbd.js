@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e}from"./chunks/framework.CBzLr-l3.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"application/文本文档.md","filePath":"application/文本文档.md"}'),o={name:"application/文本文档.md"};function c(n,r,p,i,s,_){return e(),a("div")}const m=t(o,[["render",c]]);export{l as __pageData,m as default};
